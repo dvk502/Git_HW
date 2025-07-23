@@ -1,0 +1,6 @@
+fitstName:Dmytro,
+lastname:Korotchenko,
+years:38,
+pet:1,
+typeOfPet: cat,
+preferedSalary: 1800
