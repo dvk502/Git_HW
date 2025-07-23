@@ -1,0 +1,2 @@
+47478 [Bulletin Board] Error when save empty select 'Access'
+47470 [Bulletin Notifications] List notifications is not updated after getting push
