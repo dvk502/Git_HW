@@ -1,0 +1,31 @@
+{
+  "testingTheory": true,
+  "versionControl": ["git", "github"],
+  "javascript": {
+    "basics": ["variables", "operators", "dataComparison", "conditionals", "loops"],
+    "advanced": ["arrays", "spread", "functions", "arrayMethods", "sets", "objects", "thisContext", "closures", "classes", "promises", "asyncFunctions", "eventLoop"]
+  },
+  "typescript": {
+    "types": true,
+    "interfaces": true,
+    "generics": true,
+    "classes": true,
+    "oop": true,
+    "modules": true,
+    "codeQualityTools": ["eslint", "prettier", "husky"]
+  },
+  "aqa": {
+    "selectors": ["css", "xpath"],
+    "uiTesting": ["playwright", "webdriverIO"],
+    "pageObjectModel": true,
+    "fixturesAndModals": true,
+    "apiTesting": ["basics", "controllers", "wrappers"],
+    "integrationTesting": ["mocking"],
+    "e2eTesting": ["services"],
+    "testSuites": ["reporters"],
+    "ciCd": ["docker"],
+    "frameworks": ["mocha", "cucumber"],
+    "careerPrep": ["cvReview", "linkedinReview"],
+    "finalProject": "4 weeks"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "favoriteMovie": "Split",
+  "favoriteSeries": "Mandolorian",
+  "favoriteFood": "Pizza",
+  "favoriteSeason": "Summer",
+  "countryToVisit": "USA"
+}
