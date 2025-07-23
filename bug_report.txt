@@ -1,1 +1,2 @@
-
+47484	Bug [Bulletin Board] Position on list is lost after editing
+47479	Bug[Bulletin Board] Scrollbar is absent
